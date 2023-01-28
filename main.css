@@ -1,0 +1,27 @@
+.wrapper{
+  max-width: 200px;
+  margin: 0 auto;
+  color: gray;
+}
+
+#calc{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+button{
+  font-size: 22px;
+  height: 4rem;
+  color: #333;
+  border-color: white;
+  vertical-align: middle;
+}
+
+input{
+  box-sizing: border-box;
+  width: 75%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  text-align: right;
+  padding: 0 0.75rem;
+}
